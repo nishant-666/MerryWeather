@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MerryWeather/static/css/main.c2a1d837.chunk.css",
+    "main.js": "/MerryWeather/static/js/main.f4dced63.chunk.js",
+    "main.js.map": "/MerryWeather/static/js/main.f4dced63.chunk.js.map",
+    "runtime-main.js": "/MerryWeather/static/js/runtime-main.2373fa50.js",
+    "runtime-main.js.map": "/MerryWeather/static/js/runtime-main.2373fa50.js.map",
+    "static/css/2.206980a0.chunk.css": "/MerryWeather/static/css/2.206980a0.chunk.css",
+    "static/js/2.8c89bae1.chunk.js": "/MerryWeather/static/js/2.8c89bae1.chunk.js",
+    "static/js/2.8c89bae1.chunk.js.map": "/MerryWeather/static/js/2.8c89bae1.chunk.js.map",
+    "index.html": "/MerryWeather/index.html",
+    "precache-manifest.48fec09158c6c64a51e5f7addd2ed3ea.js": "/MerryWeather/precache-manifest.48fec09158c6c64a51e5f7addd2ed3ea.js",
+    "service-worker.js": "/MerryWeather/service-worker.js",
+    "static/css/2.206980a0.chunk.css.map": "/MerryWeather/static/css/2.206980a0.chunk.css.map",
+    "static/css/main.c2a1d837.chunk.css.map": "/MerryWeather/static/css/main.c2a1d837.chunk.css.map",
+    "static/js/2.8c89bae1.chunk.js.LICENSE": "/MerryWeather/static/js/2.8c89bae1.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/MerryWeather/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/index.sass": "/MerryWeather/static/media/jeremy-bishop-8xznAGy4HcY-unsplash.18bcf5b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2373fa50.js",
+    "static/css/2.206980a0.chunk.css",
+    "static/js/2.8c89bae1.chunk.js",
+    "static/css/main.c2a1d837.chunk.css",
+    "static/js/main.f4dced63.chunk.js"
+  ]
+}
